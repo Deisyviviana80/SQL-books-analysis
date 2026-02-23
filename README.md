@@ -1,10 +1,10 @@
-# 📚 SQL Books — Análisis de una Plataforma de Lectura
+# 📚 SQL Books - Análisis de una Plataforma de Lectura
 
 ## 📖 Descripción del Proyecto
 
 Este proyecto analiza la base de datos de una plataforma de lectura en línea con el objetivo de extraer información estratégica que apoye la toma de decisiones del negocio. El análisis responde cinco preguntas clave sobre el catálogo de libros, el comportamiento de los usuarios y el desempeño de autores y editoriales.
 
-El proyecto fue desarrollado como parte del programa de formación en análisis de datos de **Practicum by Yandex**.
+El proyecto fue desarrollado como parte del programa de formación Bootcamp en análisis de datos de **Tripleten**.
 
 ---
 
@@ -99,7 +99,7 @@ jupyter notebook SQL_mejorado.ipynb
 
 ## 👩‍💻 Autora
 
-Proyecto desarrollado como parte del programa de **Análisis de Datos — Practicum by Yandex**.
+Proyecto desarrollado como parte del programa de **Análisis de Datos — Tripleten**.
 
 ---
 
